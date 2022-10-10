@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<HealthData locale="en_US">
+ <Me HKCharacteristicTypeIdentifierDateOfBirth="" HKCharacteristicTypeIdentifierBiologicalSex="HKBiologicalSexNotSet" HKCharacteristicTypeIdentifierBloodType="HKBloodTypeNotSet" HKCharacteristicTypeIdentifierFitzpatrickSkinType="HKFitzpatrickSkinTypeNotSet" HKCharacteristicTypeIdentifierCardioFitnessMedicationsUse="None"/>
+ <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Health" sourceVersion="16.0" creationDate="2022-10-03 14:32:05 +0530" startDate="2022-10-01 11:31:00 +0530" endDate="2022-10-02 07:31:00 +0530" value="HKCategoryValueSleepAnalysisInBed">
+  <MetadataEntry key="HKWasUserEntered" value="1"/>
+ </Record>
+ <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Health" sourceVersion="16.0" creationDate="2022-10-03 11:20:47 +0530" startDate="2022-10-03 03:20:00 +0530" endDate="2022-10-03 04:20:00 +0530" value="HKCategoryValueSleepAnalysisAsleepDeep">
+  <MetadataEntry key="HKWasUserEntered" value="1"/>
+ </Record>
+ <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Health" sourceVersion="16.0" creationDate="2022-10-03 11:19:57 +0530" startDate="2022-10-02 23:20:00 +0530" endDate="2022-10-03 09:20:00 +0530" value="HKCategoryValueSleepAnalysisInBed">
+  <MetadataEntry key="HKWasUserEntered" value="1"/>
+ </Record>
+ <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Health" sourceVersion="16.0" creationDate="2022-10-03 14:47:39 +0530" startDate="2022-10-03 13:47:00 +0530" endDate="2022-10-03 14:47:00 +0530" value="HKCategoryValueSleepAnalysisInBed">
+  <MetadataEntry key="HKWasUserEntered" value="1"/>
+ </Record>
+ <Record type="HKCategoryTypeIdentifierSleepAnalysis" sourceName="Health" sourceVersion="16.0" creationDate="2022-10-10 14:17:54 +0530" startDate="2022-10-10 13:17:00 +0530" endDate="2022-10-10 14:17:00 +0530" value="HKCategoryValueSleepAnalysisAsleepDeep">
+  <MetadataEntry key="HKWasUserEntered" value="1"/>
+ </Record>
+</HealthData>
+
